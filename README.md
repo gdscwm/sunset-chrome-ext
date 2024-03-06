@@ -89,8 +89,6 @@ permissions).<sup>1</sup>
 We're starting with a half filled in manifest. Let's go through each key in the file (the string before each colon), see
 what they're doing for us, and fill in what's missing.
 
-# TODO expand if have time
-
 ## background.js
 
 Code time! Enter your `background.js` file.
